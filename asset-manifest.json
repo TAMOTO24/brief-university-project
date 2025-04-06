@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brief-university-project/static/css/main.e6c13ad2.css",
+    "main.js": "/brief-university-project/static/js/main.7327134b.js",
+    "static/js/453.1965c8d6.chunk.js": "/brief-university-project/static/js/453.1965c8d6.chunk.js",
+    "index.html": "/brief-university-project/index.html",
+    "main.e6c13ad2.css.map": "/brief-university-project/static/css/main.e6c13ad2.css.map",
+    "main.7327134b.js.map": "/brief-university-project/static/js/main.7327134b.js.map",
+    "453.1965c8d6.chunk.js.map": "/brief-university-project/static/js/453.1965c8d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7327134b.js"
+  ]
+}
